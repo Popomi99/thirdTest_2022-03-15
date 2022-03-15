@@ -2,4 +2,8 @@
 
 ## main
 
+<<<<<<< HEAD
 ## mainEgit
+=======
+## braB
+>>>>>>> braB
